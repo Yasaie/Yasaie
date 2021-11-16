@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Payam Yasaie</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working at **Tas'hil Gostar**
-
-- 👯 I’m collaborating on [Odoo](https://github.com/odoo/odoo) - [OCA](https://github.com/OCA)
+- 🔭 I’m currently working at **[OWOW](https://github.com/owowagency)**
 
 - 💬 Ask me about **anything**
 
